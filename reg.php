@@ -210,7 +210,7 @@ if(isset($_POST['btn_reg'])){
          //Set gmail username
          $mail->Username = "lilwizmin@gmail.com";
          //Set gmail password
-         $mail->Password = "ziblswsegtslhque";
+        //  $mail->Password = "ziblswsegtslhque";
          //Email subject
          $mail->Subject = $subject;
          //Set sender email
